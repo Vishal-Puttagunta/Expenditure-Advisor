@@ -1,0 +1,10 @@
+prop_item1 = .23
+prop_item2 = .17
+prop_item3 = .15
+prop_item4 = .13
+prop_item5 = .11
+prop_item6 = .09
+prop_item7 = .07
+prop_item8 = .03
+prop_item9 = .02
+prop_item_list = [prop_item1, prop_item2, prop_item3, prop_item4, prop_item5, prop_item6, prop_item7,prop_item8,prop_item9]
