@@ -1,0 +1,1 @@
+This expenditure advisor is an user-interactive application. The program takes in several factors from the user such as: salary, food habits, money spent on gas, etc to conclude a sufficient spending plan personalized to the user. The program also allows the user to rank which expenses they choose to prioritize over the others in order to keep the user's interests in mind.
